@@ -1,0 +1,1 @@
+# EFI-folder-for-HP14s_FQ1080AU-Sonoma-
