@@ -1,9 +1,15 @@
 # EFI-folder-for-HP14s_FQ1080AU-Sonoma-
-This is the EFI folder (created with OpenCore) for HP 14s_FQ1080AU
+This is the EFI folder (created with OpenCore) for HP 14s_FQ1080AU.
+
 System Spec:
-CPU: Ryzen 3 5300u
+CPU: Ryzen 3 5300u 4 cores 8 threads
+
 RAM: 8GB DDR4 3200MHZ
+
 GPU: iGPU RX Vega 6
+
 Hard drive: Samsung SSD 256GB Gen3 standard (NVME)
+
 WIFI: RealTek RTL8821 CE (replaced to Intel AC - 8160 because this RealTek does not have drivers for Sonoma)
+
 Note that this EFI folder has keyboard problems (the solution is to attach an external keyboard to the USB port to use it).
